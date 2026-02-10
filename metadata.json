@@ -1,0 +1,7 @@
+{
+  "name": "Life OS Local",
+  "description": "A local-only operations manager for tracking personal and business tasks without external API dependencies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
